@@ -4,7 +4,7 @@ $_50 = 0;
 $_100 = 0;
 $_200= 0;
 $_500 =0;
-echo "Enter your  amaunt please! \n";
+echo "Enter yourrrrrr amaunt please! \n";
 $handle = fopen("php://stdin","r");
 $amount = fgets($handle);
 
